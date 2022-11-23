@@ -30,9 +30,3 @@ else if (a == b)
 {
     Console.Write("числа равны");
 }
-
-// Console.Write("max= ");
-// Console.WriteLine(max);
-
-// Console.Write("min= ");
-// Console.WriteLine(min);
